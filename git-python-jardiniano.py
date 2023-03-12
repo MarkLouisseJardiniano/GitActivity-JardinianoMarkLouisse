@@ -1,3 +1,6 @@
 print("Full Name: Mark Louisse Jardiniano")
 print("Address: Isok1, Boac, Marinduque")
 print("Birthday: May 21, 2002")
+print("College: Marinduque State College")
+print("Course: Information Technology")
+print("Year & Section: 2nd year Section B")
